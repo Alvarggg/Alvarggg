@@ -1,21 +1,21 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
-</div> 
-
+<img src="https://images.app.goo.gl/ry3kfSBAhnXfDo6U9" align="center" style="width: 100%" />
+</div>  
+  
 
 ### <div align="center">Soy Alvaro Hernanz Sanz, estudio Ingeniería Informática en la UCJC, actualmente estoy en 3º 🚀</div>  
- 
+  
 
-- 🌱 Estoy estudiando Devops. 
- 
+- 🌱 Estoy estudiando Devops.  
+  
 
-- ❓ Haré todo lo posible para responder las preguntas que me hagas.
- 
+- ❓ Haré todo lo posible para responder las preguntas que me hagas  
+  
 
-- ⚡Dato curioso: Se producen 1700 ciberataques cada minuto en todo el mundo.
- 
+- ⚡Dato curioso: Se producen 1700 ciberataques cada minuto en todo el mundo  
+  
 
-<br/> 
+<br/>  
 
 
 ## My Skill Set  
@@ -28,7 +28,7 @@
 
 
 ### Backend  
-<div align="center"> 
+<div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
@@ -47,20 +47,20 @@
 
 
 
-</td></tr></table> 
+</td></tr></table>  
 
-<br/> 
+<br/>  
 
 
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Alvarggg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
-</div> 
- 
+</a>  
+</div>  
+  
 
-<br/> 
+<br/>  
 
 
 ## Github Stats  
@@ -68,17 +68,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alvargg&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
 
-<br/> 
+<br/>  
 
 
 ## Recent Blog Posts  
- 
+  
 
-<br/> 
+<br/>  
 
- 
+  
 
-<br/> 
+<br/>  
 
   
 
