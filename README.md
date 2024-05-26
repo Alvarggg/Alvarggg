@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://images.app.goo.gl/ry3kfSBAhnXfDo6U9" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Soy Alvaro Hernanz Sanz, estudio Ingeniería Informática en la UCJC, actualmente estoy en 3º 🚀</div>  
